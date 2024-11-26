@@ -1,6 +1,8 @@
 # API-Barbearia
 Editor de código: eclipse
+
 Banco de dados: postgres
+
 Documentação da api: https://www.postman.com/igorcruz232/api-barbearia/collection/a6wguzy/api-documentation?action=share&creator=40001346
 
 ## Importação do projeto
