@@ -41,11 +41,23 @@ Editor de código: eclipse
 
 2 - Abra o arquivo DatabaseConfig.java
 
-3 - Configurar DataSource:
-    - dataSource.setDriverClassName("org.postgresql.Driver");
-    - dataSource.setUrl("jdbc:postgresql://localhost:5432/agendamento"); // Ajuste a URL conforme necessário
-    - dataSource.setUsername("postgres");// Substitua pelo seu usuário
-    - dataSource.setPassword("markim");   
+3 - url do banco: dataSource.setUrl("jdbc:postgresql://localhost:PORTA/NOME DO BANCO"); EX: ("jdbc:postgresql://localhost:5432/agendamento") //
+
+4 - dataSource.setUsername("postgres");// Substitua pelo seu usuário
+
+5 - dataSource.setPassword("SENHA"); // Substitua pela sua senha  
+
+
+## Executar aplicação
+1 - execute o arquivo AgendamentoApplication.java
+
+## Documentação da api
+
+Documentação da api: https://www.postman.com/igorcruz232/api-barbearia/collection/a6wguzy/api-documentation?action=share&creator=40001346
+
+
+
+
 
 
 
